@@ -57,4 +57,4 @@ npm start
 - [React HTML to PDF](https://www.npmjs.com/package/react-html-to-pdf)
 
 ### Authors
-- [Shoaib Malik]()
+- [Shoaib Malik](https://www.linkedin.com/in/shoaib-malik-697531253/)
